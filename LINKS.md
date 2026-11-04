@@ -8,7 +8,7 @@
 - https://media.defcon.org/ DEFCON conference archives (talks and projects!)
 - https://media.ccc.de/ Chaos Communication Congress archives (DEFCON but in germany)
 - https://vx-underground.org/ VX-Underground: Malware samples and papers archives (also dope merch)
-- 
+- https://pwnagotchi.ai/ (really awesome project that shows you how wifi authentication works)
 - 
 
 ## Cool Github Repos
