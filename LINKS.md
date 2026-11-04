@@ -19,3 +19,6 @@
 - https://github.com/martanne/bitpixie BitPixie: Bitlocker encryption vulnerability
 - https://github.com/Justin-Garey/Minecraft-Log4j-Exploit Log4J Minecraft exploitation vulnerability
 - https://github.com/RoganDawes/P4wnP1_aloa/ Neat offensive tool
+
+## Misc Cool Stuff
+- https://wikileaks.org/ciav7p1/cms/index.html Vault 7 CIA Hacking Tools leaked
