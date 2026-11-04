@@ -18,3 +18,4 @@
 - https://github.com/danielmiessler/SecLists SecLists: the most used repo for password lists
 - https://github.com/martanne/bitpixie BitPixie: Bitlocker encryption vulnerability
 - https://github.com/Justin-Garey/Minecraft-Log4j-Exploit Log4J Minecraft exploitation vulnerability
+- https://github.com/RoganDawes/P4wnP1_aloa/ Neat offensive tool
